@@ -3,7 +3,7 @@ import java.util.logging.Logger;
 
 import static org.junit.Assert.*;
 
-public class LogginLabTest {
+public class LoginLabTest {
     private final static Logger logger = Logger.getLogger(LogginLab.class.getName());
 
     @org.junit.Before
