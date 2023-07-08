@@ -11,7 +11,7 @@ public class LogginLab {
     }
 
     public static void main(String[] args) {
-
+// Double check this 
         logger.log(Level.INFO, "Hello World!");
         logger.log(Level.SEVERE, "Terrible Error!");
         logger.log(Level.WARNING, "Not So Bad Error!");
